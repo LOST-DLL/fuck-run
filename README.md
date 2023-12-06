@@ -11,7 +11,7 @@
 
 小米5root很容易，先用MiuiUnlock解锁bootloader，然后用Miflash线刷，注意别给BL刷回去了，刷完再用magisk，这里不细讲了，相信大家都有手，我用的版本是gemini_images_V7.5.9.0.MAACNDE_20160805.0000.29_6.0_cn
 
-当然用MIUI会卡个稀烂，某些界面还会闪退，建议想办法刷个LineageOS
+第三方系统会寄，root隐藏不住（比如lineageOS）
 
 为什么不用虚拟机，手机虚拟机会被检测出来，电脑虚拟机因为无法获取设备ID无法上传成绩
 
